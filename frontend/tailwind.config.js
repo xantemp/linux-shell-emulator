@@ -1,0 +1,1 @@
+export default {\n  content: [\n    \"./index.html\",\n    \"./src/**/*.{js,jsx}\",\n  ],\n  theme: {\n    extend: {},\n  },\n  plugins: [],\n}\n
